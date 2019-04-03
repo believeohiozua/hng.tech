@@ -13,15 +13,15 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img style=" border-radius: 100px;"src="../app/img/interns/BelieveOhiozua.jpg" height="140" width="150" alt="">
+     					  <h6>Believe Ohiozua</h6>
+                 <p>DATA SCIENTIST</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
-                 </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+                 <li><a href="https://twitter.com/Eaithy" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/believeohiozua" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@believeohiozua" target="_blank"<i class="fab fa-medium"></i></a></li>				 
+                 </ul>     					  
+						  <a href="../interns/BelieveOhiozua" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
